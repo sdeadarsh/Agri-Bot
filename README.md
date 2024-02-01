@@ -32,15 +32,15 @@ Ready to experience the farming magic? Agri Bot is here to help you grow, one fr
     `pip install -r requirements.txt`
    
 3. Make a database in mongo
-    `mongodb://user:password@server_name/?authSource=project_name` for server side
+    `mongodb://user:password@server_name/?authSource=project_name` for server-side
 4. `cd agri-bot` 
 5. `flask run --port=8001`
-6. To run https server use `python manage.py runsslserver 0:8000`
+
 
 
 ## Pycharm
 1. Make sure to update your virtual env in pycharm to the one you created
-2. Add `app` folder to your project root
+2. Add an `app` folder to your project root
 
 
 
